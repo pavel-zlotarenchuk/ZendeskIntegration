@@ -1,7 +1,7 @@
 package com.mdgroup.zendesktestapplication
 
 object Constants {
-    public val ZENDESK_CHANNEL_KEY = ""
+    public val ZENDESK_CHANNEL_KEY = "eyJzZXR0aW5nc191cmwiOiJodHRwczovL2FsZmFiYW5rdWEuemVuZGVzay5jb20vbW9iaWxlX3Nka19hcGkvc2V0dGluZ3MvMDFHTVpDNTRBRU4zVzRNMk1RR0FERldWOFAuanNvbiJ9"
 
-    public val TOKEN = ""
+    public val TOKEN = "eyJraWQiOiJhcHBfNjM3ZGY1MGEwZDZkZmUwMTAzOTcxOTIzIiwidHlwIjoiSldUIiwiYWxnIjoiSFMyNTYifQ.eyJzY29wZSI6ImFwcFVzZXIiLCJuYW1lIjoi0ITQstCz0LXQvdGW0Y8g0JPRgNCw0YciLCJleHRlcm5hbF9pZCI6IjczOTE0MzMiLCJleHAiOjE2NzE3OTU5NDQsImVtYWlsIjoiZ3JhY2guZWcyMkBnbWFpbC5jb20ifQ.SgYCYDGfUx-Ue4jOjLwogmMHBL_1W6mMDpm9mbWvk1I"
 }
